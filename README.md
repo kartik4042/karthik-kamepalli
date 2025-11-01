@@ -231,8 +231,6 @@ University of Pune | GPA: 8.78/10 | May 2021
 
 ### 💡 "Premature optimization is the root of all evil, but when you need it, make it count."
 
-![Visitor Count](https://profile-counter.glitch.me/kartik4042/count.svg)
-
 ⭐ **Star repositories you find interesting!**
 
 </div>
